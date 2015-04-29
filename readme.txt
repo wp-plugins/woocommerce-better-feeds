@@ -3,7 +3,7 @@ Contributors: elsteno
 Tags: price, woocoomerce, featured image, rss, feed, image in rss feed, price in rss feed
 Requires at least: 4.0.
 Tested up to: 4.2
-Stable tag: 1.0.0
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -35,5 +35,9 @@ This is the first version
 
 == Changelog ==
 
-= 1.0.0 =
+= 1.1 =
+* Some fixes
+
+= 1.0 =
 * First Release
+
